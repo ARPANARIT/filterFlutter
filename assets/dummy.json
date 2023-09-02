@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Metro Coaching Centre",
+    "price": "2000",
+    "ratings": "4.4",
+    "image": "images/classroom1.jpg",
+    "distance": "1.5"
+  },
+  {
+    "name": "Elite IIT",
+    "price": "2500",
+    "ratings": "4.3",
+    "image": "images/classroom2.jpg",
+    "distance": "0.5"
+
+  },
+  {
+    "name": "Brilliant Tutorials",
+    "price": "1800",
+    "ratings": "4.2",
+    "image": "images/classroom3.jpg",
+    "distance": "3.5"
+
+  },
+  {
+    "name": "Princeton Review",
+    "price": "2800",
+    "ratings": "4.1",
+    "image": "images/classroom4.jpg",
+    "distance": "2.5"
+
+  }
+]
